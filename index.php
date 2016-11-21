@@ -37,7 +37,7 @@
                         <i class="fa fa-user-o" aria-hidden="true"></i>
                     </span>
 
-                    <input type="text" name="user" class="form-control" placeholder="Ваш логин" aria-describedby="sizing-addon2">
+                    <input type="text" name="userLogin" class="form-control" placeholder="Ваш логин" aria-describedby="sizing-addon2">
                 </div>
 
                 <br>
@@ -47,7 +47,7 @@
                     <span class="input-group-addon" id="sizing-addon2">
                          <i class="fa fa-lock" aria-hidden="true"></i>
                     </span>
-                    <input type="password" name="pass" class="form-control" placeholder="Ваш пароль" aria-describedby="sizing-addon2">
+                    <input type="password" name="userPass" class="form-control" placeholder="Ваш пароль" aria-describedby="sizing-addon2">
                 </div>
 
                 <br>
