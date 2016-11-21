@@ -51,7 +51,7 @@
                 </div>
 
                 <br>
-               
+
                <!--Кнопка войти-->
                 <div class="input-group-btn">
                     <button type="submit" class="btn btn-outline-primary" style="width: 100%; height: auto; margin: 5px auto; border-radius: 3px">Войти</button>

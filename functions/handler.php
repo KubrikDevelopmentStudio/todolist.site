@@ -7,6 +7,7 @@
  */
 
 switch ($_REQUEST['action']) {
-    case 'getUser':
+    case 'checkUser':
+
         break;
 }
