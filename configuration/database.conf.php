@@ -11,7 +11,7 @@ $db_config = [
     'user_name' => 'root',
     'user_password' => '',
     'database' => [
-        'name' => 'testDb',
+        'name' => 'TODO_LIST_DEV',
         'password' => ''
     ]
 ];

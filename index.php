@@ -15,6 +15,8 @@
 
         <script type="text/javascript" src="lib/jquery/jquery-3.1.1.js"></script>
         <script type="text/javascript" src="lib/bootstrap4/js/bootstrap.js"></script>
+
+        <script type="text/javascript" src="lib/js/main.js"></script>
     </head>
     <body>
 
